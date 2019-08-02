@@ -20,7 +20,8 @@ it also captures the commands used in append mode to the file log.txt
 
 Example code Execution Demo : 
 
-![](./Images/Image1.png)
-<img src="./Images/Image3.png">
+
+<img src="./Images/Image1.png">
 <img src="./Images/Image2.png">
+<img src="./Images/Image3.png">
 
