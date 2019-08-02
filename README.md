@@ -20,4 +20,7 @@ it also captures the commands used in append mode to the file log.txt
 
 Example code Execution Demo : 
 
-![](Images/"Screen Shot 2019-08-02 at 2.36.55 AM")
+![](./Images/Image1.png)
+
+<img src="./Images/Image2.png">
+
